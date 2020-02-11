@@ -10,17 +10,17 @@ So, how deadly is this virus exactly?
 
 ![Alt Text](https://github.com/syrrostrattus/syrrostrattus.github.io/blob/master/img/chinadeath.png)
 
-As this chart indicates, not very. In China, there are currently around 37198 confirmed cases, and 811 deaths. 811 deaths is, undoubtedly, tragic. But the mortality is only around 2% -- for some perspective, the influenza mortality in the United States in the 2017-2018 season was around 7.5% ([https://www.cdc.gov/flu/about/season/flu-season-2017-2018.htm](https://www.cdc.gov/flu/about/season/flu-season-2017-2018.htm)). And outside of mainland China?
+As this chart indicates, not very. In China, there are currently around 37198 confirmed cases, and 811 deaths. 811 deaths is, undoubtedly, tragic. But the mortality is only around 2% -- for some perspective, influenza mortality in the United States in the 2017-2018 season was around 7.5% ([https://www.cdc.gov/flu/about/season/flu-season-2017-2018.htm](https://www.cdc.gov/flu/about/season/flu-season-2017-2018.htm)). And outside of mainland China?
 
 
 ![Alt Text](https://github.com/syrrostrattus/syrrostrattus.github.io/blob/master/img/worlddeath.png)
 
 There have been 351 total cases of novel coronavirus outside of mainland China so far, and only two deaths. That mortality is about half a percent.
 
-The most important takeaway from this is that unless something changes in a big way, this is not as apocalyptic as your preferred news app might have you believe. But in poring over this data, I did find something else I believe to be in the public interest. This chart shows all the regions outside of China with a significant number of infected inhabitants -- I arbitrarily defined significance as greater than ten cases.
+The most important takeaway from this is that unless something changes in a big way, this is not as apocalyptic as your preferred news organization is warning. But in poring over this data, I did find something else I believe to be in the public interest. This chart shows all the regions outside of China with a significant number of infected inhabitants -- I arbitrarily defined significance as greater than ten cases.
 
 ![Alt Text](https://github.com/syrrostrattus/syrrostrattus.github.io/blob/master/img/confirmedcasesbyarea.png)
 
 At 60 souls, the number of infected aboard the Diamond Princess cruise ship, quarantined off the coast of Japan, exceeds that of any other nation barring China, and by no small margin. And it&#39;s not slowing down--by the time you read this, this number may have doubled, or even tripled. There have been no casualties aboard the Diamond Princess as of yet.
 
-If you live on a continent that isn&#39;t within spitting distance of China, it is astronomically unlikely that the coronavirus will affect your life in any meaningful way. If there's anything to learn here, it's this: stay away from cruise liners.
+For now, novel coronavirus as a globally devastating pandemic does not appear to be an imminent danger. Cruise liners, however, are another story. 
